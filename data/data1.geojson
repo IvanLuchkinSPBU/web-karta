@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "name": "ino",
+ "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+ "features": [
+ {
+ "type": "Feature",
+ "properties": { "id": 1 },
+ "geometry": { "type": "Point", "coordinates": [ 3367213.9802770987, 8389279.6126697436 ] }
+ },
+{
+"type": "Feature",
+"properties": { "id": 2 },
+"geometry": { "type": "Point", "coordinates": [ 3369962.7755021011, 8387038.8380640447 ] }
+ },
+{
+"type": "Feature",
+"properties": { "id": 3 },
+"geometry": { "type": "Point", "coordinates": [ 3370141.7632765193, 8386915.4507472124 ] }
+}
+]
+}
